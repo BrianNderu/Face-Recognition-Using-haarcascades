@@ -13,4 +13,4 @@ haarcascade_smile.xml - for Smile detection
 ## Method
 The Project utilizes Open source pretrained Haarcascade to intitilize the computer camera and identify the user face, eyes, glasses and smile. 
 
-Preview more on Haarcascade here(https://github.com/opencv/opencv/tree/master/data/haarcascades)
+Preview more on Haarcascade [here](https://github.com/opencv/opencv/tree/master/data/haarcascades)
